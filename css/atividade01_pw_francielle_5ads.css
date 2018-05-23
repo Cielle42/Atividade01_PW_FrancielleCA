@@ -1,0 +1,41 @@
+body {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+}
+
+.back-page {
+    background: url('http://localhost/atividade01_pw_francielle_5ads/img/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.back-frozen {
+    background: url('http://localhost/atividade01_pw_francielle_5ads/img/bg-frozen.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.back-sobre {
+    background: url('http://localhost/atividade01_pw_francielle_5ads/img/bg-sobre.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.back-info {
+    background: url('http://localhost/atividade01_pw_francielle_5ads/img/bg-info.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.footer-landpage {
+    background-color: rgba(0, 0, 0, 0.8);
+    border-top: solid 1px #535353;
+    color: #acacac;
+    left: 0px;
+    right: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    bottom: 0px;
+    position: fixed;
+}
